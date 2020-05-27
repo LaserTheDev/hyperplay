@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hyperplay",
+  "name": "HyperPlay",
+  "description": "A lightweight quickplay for the most popular games on the Hypixel network!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheMonoMew"],
+  "credits": "Thanks to canelex and leonardosnt for some of the code! This mod was heavily inspired by mods like QuickSW by leonardosnt and Hypixel Quickplay by bugfroggy.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
